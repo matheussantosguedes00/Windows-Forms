@@ -1,0 +1,18 @@
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.exe
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.deps.json
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.runtimeconfig.json
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.runtimeconfig.dev.json
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.dll
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\ref\Calculadora utilizando.dll
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\bin\Debug\net5.0-windows\Calculadora utilizando.pdb
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora_utilizando.Form1.resources
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.AssemblyInfo.cs
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.dll
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\ref\Calculadora utilizando.dll
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.pdb
+C:\Users\Matheus\Documents\5 PERIODO\Programação II\execicio4\Calculadora utilizando\obj\Debug\net5.0-windows\Calculadora utilizando.genruntimeconfig.cache
